@@ -214,4 +214,4 @@ git push origin feature/your-feature
 
 Built by Ahmed Elbasty.
 
-Created as a student project and submitted to RevenueCat Shipaton 2026.
+Created as a student project and submitted to EurekaDev.
